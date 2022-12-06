@@ -57,3 +57,15 @@
     font-size: 30px;
     letter-spacing: 5px;
 }
+.button
+{
+    position:absolute;
+    top: 64%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.btn:hover
+{
+    background-color: #fff;
+    color: #000;
+}
