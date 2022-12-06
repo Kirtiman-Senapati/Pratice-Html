@@ -27,3 +27,33 @@
     color: #fff;
     color :rgb((0,0,0)) ;
 }
+.logo img
+{
+    float: left;
+    width: 150px;
+    height: auto;
+}
+.main
+{
+    max-width: 1200px;
+    margin: auto;
+}
+.tittle
+{
+    position: absolute;
+    top: 50%;
+    left: 50px;
+    transform :translate(-50%, -50%) ;
+}
+.tittle h1
+{
+    color: #fff;
+    text-shadow: 4px 4px 6px #000;
+    font-size: 70px;
+}
+.tittle h2
+{
+    color: #fff;
+    font-size: 30px;
+    letter-spacing: 5px;
+}
