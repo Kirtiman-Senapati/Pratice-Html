@@ -11,3 +11,19 @@
     background-size:cover ;
     background-position: center;
 }
+.ul
+{
+    float: right;
+    list-style-type:none ;
+    margin-top: 25px;
+}
+.ul li
+{
+    display: inline-block;
+}
+.ui li a
+{
+    text-decoration: none;
+    color: #fff;
+    color :rgb((0,0,0)) ;
+}
