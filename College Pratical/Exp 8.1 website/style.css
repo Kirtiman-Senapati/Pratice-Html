@@ -5,9 +5,10 @@
 }
 
 header{
-  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(Img2/10tha.jpg);
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(Img2/889201.webp);
   height: 100vh;
-  background-size:contain
+  background-size:contain;
+  
 
 }
 
